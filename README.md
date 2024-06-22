@@ -11,5 +11,5 @@ Predicts the SOC and SOH of a battery by using a Machine Learning algorithm ( It
 - **Visualization**: Generating visual insights into battery performance and predictions to aid in decision-making.
 - **Optimization Algorithms**: Techniques to optimize battery usage and charging cycles.
 
-##Machine Learning Algorithm used
+# Machine Learning Algorithm used
 - Support Vector Machine (SVM)
